@@ -1,5 +1,6 @@
 // Telemetry example, by SCS
 // Modified by Carl Hewett
+// Known as "the plugin"
 
 // Windows stuff.
 
